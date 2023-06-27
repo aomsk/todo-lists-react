@@ -13,5 +13,4 @@
 cd todo-lists-react
 npm install
 npm run dev
-
 ```
